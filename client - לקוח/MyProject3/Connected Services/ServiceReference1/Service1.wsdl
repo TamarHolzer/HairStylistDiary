@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tns="http://tempuri.org/" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/wcf_server/Service1/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/wcf_server/Service1/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Design_Time_Addresses/wcf_server/Service1/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Model" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_updateOrdersAndCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:updateOrdersAndCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_updateOrdersAndCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:updateOrdersAndCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getSaleByCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:getSaleByCode" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getSaleByCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getSaleByCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getAllCities_InputMessage">
+    <wsdl:part name="parameters" element="tns:getAllCities" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getAllCities_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getAllCitiesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAdressByCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAdressByCode" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAdressByCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAdressByCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToHairdo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToHairdo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToHairdo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToHairdoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddHairdo_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddHairdo" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddHairdo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddHairdoResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllHairdos_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllHairdos" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllHairdos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllHairdosResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomerDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomerDetails" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomerDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllSales_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllSales" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllSales_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllSalesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAdresssByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAdresssByName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAdresssByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAdresssByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeCityByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeCityByName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeCityByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeCityByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOrder" />
+  </wsdl:message>
+  <wsdl:message name="IService1_UpdateOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdateOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddAdress_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddAdress" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddAdress_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddAdressResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToAdress_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToAdress" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToAdress_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToAdressResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllOrders_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOrders" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllOrders_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeCustomerDetailsByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeCustomerDetailsByName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeCustomerDetailsByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeCustomerDetailsByNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCustomers_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCustomers" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCustomers_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCustomersResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllAddresses_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAddresses" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllAddresses_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllAddressesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderByCodeCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderByCodeCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderByCodeCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderByCodeCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCities_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCities" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCities_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCitiesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCity_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCity" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCityResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_deleteCustomersWithAllDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:deleteCustomersWithAllDetails" />
+  </wsdl:message>
+  <wsdl:message name="IService1_deleteCustomersWithAllDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:deleteCustomersWithAllDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getCustomerDetailsByCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:getCustomerDetailsByCode" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getCustomerDetailsByCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getCustomerDetailsByCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOrderByCode_InputMessage">
+    <wsdl:part name="parameters" element="tns:getOrderByCode" />
+  </wsdl:message>
+  <wsdl:message name="IService1_getOrderByCode_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getOrderByCodeResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCust_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddCust" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddCust_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddCustResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomersD_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomersD" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToCustomersD_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToCustomersDResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_IsExist_InputMessage">
+    <wsdl:part name="parameters" element="tns:IsExist" />
+  </wsdl:message>
+  <wsdl:message name="IService1_IsExist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:IsExistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomersByCustName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomersByCustName" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetAllCustomersByCustName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllCustomersByCustNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderListByCustomer_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderListByCustomer" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetOrderListByCustomer_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetOrderListByCustomerResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:AddOrder" />
+  </wsdl:message>
+  <wsdl:message name="IService1_AddOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToOrder_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToOrder" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetCodeToOrder_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetCodeToOrderResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="updateOrdersAndCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/updateOrdersAndCustomer" message="tns:IService1_updateOrdersAndCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/updateOrdersAndCustomerResponse" message="tns:IService1_updateOrdersAndCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getSaleByCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getSaleByCode" message="tns:IService1_getSaleByCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getSaleByCodeResponse" message="tns:IService1_getSaleByCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getAllCities">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getAllCities" message="tns:IService1_getAllCities_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getAllCitiesResponse" message="tns:IService1_getAllCities_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAdressByCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAdressByCode" message="tns:IService1_GetAdressByCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAdressByCodeResponse" message="tns:IService1_GetAdressByCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToHairdo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToHairdo" message="tns:IService1_GetCodeToHairdo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToHairdoResponse" message="tns:IService1_GetCodeToHairdo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllCustomers" message="tns:IService1_GetAllCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllCustomersResponse" message="tns:IService1_GetAllCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddHairdo">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddHairdo" message="tns:IService1_AddHairdo_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddHairdoResponse" message="tns:IService1_AddHairdo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllHairdos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllHairdos" message="tns:IService1_GetAllHairdos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllHairdosResponse" message="tns:IService1_GetAllHairdos_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomerDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllCustomerDetails" message="tns:IService1_GetAllCustomerDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllCustomerDetailsResponse" message="tns:IService1_GetAllCustomerDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllSales">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllSales" message="tns:IService1_GetAllSales_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllSalesResponse" message="tns:IService1_GetAllSales_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAdresssByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAdresssByName" message="tns:IService1_GetAdresssByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAdresssByNameResponse" message="tns:IService1_GetAdresssByName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeCityByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeCityByName" message="tns:IService1_GetCodeCityByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeCityByNameResponse" message="tns:IService1_GetCodeCityByName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/UpdateOrder" message="tns:IService1_UpdateOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/UpdateOrderResponse" message="tns:IService1_UpdateOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddAdress">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddAdress" message="tns:IService1_AddAdress_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddAdressResponse" message="tns:IService1_AddAdress_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToAdress">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToAdress" message="tns:IService1_GetCodeToAdress_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToAdressResponse" message="tns:IService1_GetCodeToAdress_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOrders">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllOrders" message="tns:IService1_GetAllOrders_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllOrdersResponse" message="tns:IService1_GetAllOrders_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeCustomerDetailsByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeCustomerDetailsByName" message="tns:IService1_GetCodeCustomerDetailsByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeCustomerDetailsByNameResponse" message="tns:IService1_GetCodeCustomerDetailsByName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomers" message="tns:IService1_GetCodeToCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomersResponse" message="tns:IService1_GetCodeToCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCustomers">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCustomers" message="tns:IService1_AddCustomers_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCustomersResponse" message="tns:IService1_AddCustomers_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAddresses">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllAddresses" message="tns:IService1_GetAllAddresses_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllAddressesResponse" message="tns:IService1_GetAllAddresses_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderByCodeCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetOrderByCodeCustomer" message="tns:IService1_GetOrderByCodeCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetOrderByCodeCustomerResponse" message="tns:IService1_GetOrderByCodeCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCities">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCities" message="tns:IService1_GetCodeToCities_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCitiesResponse" message="tns:IService1_GetCodeToCities_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCity">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCity" message="tns:IService1_AddCity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCityResponse" message="tns:IService1_AddCity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="deleteCustomersWithAllDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/deleteCustomersWithAllDetails" message="tns:IService1_deleteCustomersWithAllDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/deleteCustomersWithAllDetailsResponse" message="tns:IService1_deleteCustomersWithAllDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getCustomerDetailsByCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getCustomerDetailsByCode" message="tns:IService1_getCustomerDetailsByCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getCustomerDetailsByCodeResponse" message="tns:IService1_getCustomerDetailsByCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getOrderByCode">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/getOrderByCode" message="tns:IService1_getOrderByCode_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/getOrderByCodeResponse" message="tns:IService1_getOrderByCode_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddCust">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddCust" message="tns:IService1_AddCust_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddCustResponse" message="tns:IService1_AddCust_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomersD">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomersD" message="tns:IService1_GetCodeToCustomersD_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToCustomersDResponse" message="tns:IService1_GetCodeToCustomersD_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="IsExist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/IsExist" message="tns:IService1_IsExist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/IsExistResponse" message="tns:IService1_IsExist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomersByCustName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetAllCustomersByCustName" message="tns:IService1_GetAllCustomersByCustName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetAllCustomersByCustNameResponse" message="tns:IService1_GetAllCustomersByCustName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderListByCustomer">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetOrderListByCustomer" message="tns:IService1_GetOrderListByCustomer_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetOrderListByCustomerResponse" message="tns:IService1_GetOrderListByCustomer_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="AddOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/AddOrder" message="tns:IService1_AddOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddOrderResponse" message="tns:IService1_AddOrder_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToOrder">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetCodeToOrder" message="tns:IService1_GetCodeToOrder_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetCodeToOrderResponse" message="tns:IService1_GetCodeToOrder_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IService1" type="tns:IService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="updateOrdersAndCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService1/updateOrdersAndCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getSaleByCode">
+      <soap:operation soapAction="http://tempuri.org/IService1/getSaleByCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getAllCities">
+      <soap:operation soapAction="http://tempuri.org/IService1/getAllCities" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdressByCode">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAdressByCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToHairdo">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToHairdo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddHairdo">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddHairdo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllHairdos">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllHairdos" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomerDetails">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllCustomerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllSales">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllSales" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAdresssByName">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAdresssByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeCityByName">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeCityByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdateOrder">
+      <soap:operation soapAction="http://tempuri.org/IService1/UpdateOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddAdress">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddAdress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToAdress">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToAdress" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllOrders">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeCustomerDetailsByName">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeCustomerDetailsByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCustomers">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCustomers" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllAddresses">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllAddresses" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderByCodeCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetOrderByCodeCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCities">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCities" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCity">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="deleteCustomersWithAllDetails">
+      <soap:operation soapAction="http://tempuri.org/IService1/deleteCustomersWithAllDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCustomerDetailsByCode">
+      <soap:operation soapAction="http://tempuri.org/IService1/getCustomerDetailsByCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getOrderByCode">
+      <soap:operation soapAction="http://tempuri.org/IService1/getOrderByCode" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddCust">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddCust" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToCustomersD">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToCustomersD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="IsExist">
+      <soap:operation soapAction="http://tempuri.org/IService1/IsExist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllCustomersByCustName">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetAllCustomersByCustName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOrderListByCustomer">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetOrderListByCustomer" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AddOrder">
+      <soap:operation soapAction="http://tempuri.org/IService1/AddOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetCodeToOrder">
+      <soap:operation soapAction="http://tempuri.org/IService1/GetCodeToOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IService1" binding="tns:BasicHttpBinding_IService1">
+      <soap:address location="http://localhost:8733/Design_Time_Addresses/wcf_server/Service1/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

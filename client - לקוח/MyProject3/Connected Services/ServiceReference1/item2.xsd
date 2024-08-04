@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="Customers">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeAdress" nillable="true" type="tns:Adress" />
+          <xs:element minOccurs="0" name="CodeCustomerDetails" nillable="true" type="tns:CustomerDetails" />
+          <xs:element minOccurs="0" name="CodeCustomers" type="xs:int" />
+          <xs:element minOccurs="0" name="CodeSale" nillable="true" type="tns:Sale" />
+          <xs:element minOccurs="0" name="DateT" type="xs:dateTime" />
+          <xs:element minOccurs="0" name="FinalPrice" type="xs:int" />
+          <xs:element minOccurs="0" name="Hour1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="HowLong" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="IsMyClinic" type="xs:boolean" />
+          <xs:element minOccurs="0" name="RemarksC" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="WayofPay" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Customers" nillable="true" type="tns:Customers" />
+  <xs:complexType name="BaseEntity">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:element name="BaseEntity" nillable="true" type="tns:BaseEntity" />
+  <xs:complexType name="Adress">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeAdress" type="xs:int" />
+          <xs:element minOccurs="0" name="CodeCity" nillable="true" type="tns:Cities" />
+          <xs:element minOccurs="0" name="Street" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Adress" nillable="true" type="tns:Adress" />
+  <xs:complexType name="Cities">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeCity" type="xs:int" />
+          <xs:element minOccurs="0" name="NameCity" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Cities" nillable="true" type="tns:Cities" />
+  <xs:complexType name="CustomerDetails">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeCustomerDetails" type="xs:int" />
+          <xs:element minOccurs="0" name="Mail1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NPhone1" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NPhone2" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="NameC" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="CustomerDetails" nillable="true" type="tns:CustomerDetails" />
+  <xs:complexType name="Sale">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeSale" type="xs:int" />
+          <xs:element minOccurs="0" name="NameSale" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="TheSale" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Sale" nillable="true" type="tns:Sale" />
+  <xs:complexType name="ArrayOfCities">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Cities" nillable="true" type="tns:Cities" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCities" nillable="true" type="tns:ArrayOfCities" />
+  <xs:complexType name="ArrayOfCustomers">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Customers" nillable="true" type="tns:Customers" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCustomers" nillable="true" type="tns:ArrayOfCustomers" />
+  <xs:complexType name="Hairdo">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeHairdo" type="xs:int" />
+          <xs:element minOccurs="0" name="DescriptionHairdo" nillable="true" type="xs:string" />
+          <xs:element minOccurs="0" name="Price" type="xs:int" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Hairdo" nillable="true" type="tns:Hairdo" />
+  <xs:complexType name="ArrayOfHairdo">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Hairdo" nillable="true" type="tns:Hairdo" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfHairdo" nillable="true" type="tns:ArrayOfHairdo" />
+  <xs:complexType name="ArrayOfCustomerDetails">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="CustomerDetails" nillable="true" type="tns:CustomerDetails" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfCustomerDetails" nillable="true" type="tns:ArrayOfCustomerDetails" />
+  <xs:complexType name="ArrayOfSale">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Sale" nillable="true" type="tns:Sale" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfSale" nillable="true" type="tns:ArrayOfSale" />
+  <xs:complexType name="ArrayOfOrders">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Orders" nillable="true" type="tns:Orders" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfOrders" nillable="true" type="tns:ArrayOfOrders" />
+  <xs:complexType name="Orders">
+    <xs:complexContent mixed="false">
+      <xs:extension base="tns:BaseEntity">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CodeCustomers" nillable="true" type="tns:Customers" />
+          <xs:element minOccurs="0" name="CodeHairdo" nillable="true" type="tns:Hairdo" />
+          <xs:element minOccurs="0" name="CodeOrder" type="xs:int" />
+          <xs:element minOccurs="0" name="Remarks" nillable="true" type="xs:string" />
+        </xs:sequence>
+      </xs:extension>
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="Orders" nillable="true" type="tns:Orders" />
+  <xs:complexType name="ArrayOfAdress">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Adress" nillable="true" type="tns:Adress" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfAdress" nillable="true" type="tns:ArrayOfAdress" />
+</xs:schema>

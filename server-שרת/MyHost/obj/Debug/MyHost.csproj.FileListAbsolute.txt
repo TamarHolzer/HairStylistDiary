@@ -1,0 +1,134 @@
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.pdb
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.pdb
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.dll
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.dll
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.dll
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.pdb
+D:\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.exe
+D:\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.exe
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\MyHost.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.exe
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\MyHost\obj\Debug\MyHost.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.exe
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\wcf_server.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\Model.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\ViewModel.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\Model.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.exe
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\MyHost\obj\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.exe
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\MyHost.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\MyHost\obj\Debug\MyHost.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\MyHost.exe.config
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\MyHost.exe
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\MyHost.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\wcf_server.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\Model.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\ViewModel.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\wcf_server.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\Model.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\bin\Debug\ViewModel.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.csproj.AssemblyReference.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.csproj.SuggestedBindingRedirects.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.csproj.CoreCompileInputs.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.csproj.CopyComplete
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.exe
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\MyHost\obj\Debug\MyHost.pdb

@@ -1,0 +1,516 @@
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\Model.dll
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\Model.pdb
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\source\repos\MyProject3\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+E:\MyProject3\MyProject3\bin\Debug\MyProject3.exe.config
+E:\MyProject3\MyProject3\bin\Debug\MyProject3.exe
+E:\MyProject3\MyProject3\bin\Debug\MyProject3.pdb
+E:\MyProject3\MyProject3\bin\Debug\Model.dll
+E:\MyProject3\MyProject3\bin\Debug\ViewModel.dll
+E:\MyProject3\MyProject3\bin\Debug\Model.pdb
+E:\MyProject3\MyProject3\bin\Debug\ViewModel.pdb
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.HomePage.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+E:\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+F:\MyProject3\MyProject3\bin\Debug\MyProject3.exe.config
+F:\MyProject3\MyProject3\bin\Debug\MyProject3.exe
+F:\MyProject3\MyProject3\bin\Debug\MyProject3.pdb
+F:\MyProject3\MyProject3\bin\Debug\Model.dll
+F:\MyProject3\MyProject3\bin\Debug\ViewModel.dll
+F:\MyProject3\MyProject3\bin\Debug\Model.pdb
+F:\MyProject3\MyProject3\bin\Debug\ViewModel.pdb
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.HomePage.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+F:\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+E:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+E:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+E:\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+E:\MyProject3---\MyProject3\bin\Debug\Model.dll
+E:\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+E:\MyProject3---\MyProject3\bin\Debug\Model.pdb
+E:\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+F:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+F:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+F:\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+F:\MyProject3---\MyProject3\bin\Debug\Model.dll
+F:\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+F:\MyProject3---\MyProject3\bin\Debug\Model.pdb
+F:\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+F:\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+D:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+D:\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+D:\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+D:\MyProject3---\MyProject3\bin\Debug\Model.dll
+D:\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+D:\MyProject3---\MyProject3\bin\Debug\Model.pdb
+D:\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+D:\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+E:\MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.dll
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.pdb
+E:\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+E:\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csprojAssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\MyProject3\obj\Debug\MyProject3.csproj.CopyComplete
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+D:\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+D:\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+E:\ניסיונות(אורגינלי !!!!!!בלי שטויות(\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\bin\Debug\MyProject3.exe.config
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\bin\Debug\MyProject3.exe
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\bin\Debug\MyProject3.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.AssemblyReference.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.SuggestedBindingRedirects.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.AddHairdo.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.AddOrder.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.Calendar.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.CalendarMonth.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.CustomerAdress.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.DayOrders.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.hairdoDetails.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.HomePage.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.OrderDetails.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.Patient1Details.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.Properties.Resources.resources
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.GenerateResource.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.csproj.CoreCompileInputs.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.exe
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\client - לקוח\MyProject3\obj\Debug\MyProject3.pdb

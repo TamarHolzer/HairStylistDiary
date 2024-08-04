@@ -1,0 +1,99 @@
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+D:\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+E:\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+C:\Users\יהודית\Documents\תמר\ניסיונות(אורגינלי בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\ניסיונות(אורגינלי !!!!!!בלי שטויות(\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.AssemblyReference.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CoreCompileInputs.cache
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\wcf_server.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\Model.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.dll
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\Model.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\bin\Debug\ViewModel.pdb
+H:\AAAA למורה המניק מתמר ותמר\פרויקט מעודכן יותר תמר הולצר 01-06-2023\server-שרת\wcf_server\wcf_server\obj\Debug\wcf_server.csproj.CopyComplete

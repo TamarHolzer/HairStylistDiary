@@ -1,0 +1,57 @@
+C:\Users\יהודית\source\repos\MyProject3\Model\bin\Debug\Model.dll
+C:\Users\יהודית\source\repos\MyProject3\Model\bin\Debug\Model.pdb
+C:\Users\יהודית\source\repos\MyProject3\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\יהודית\source\repos\MyProject3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\source\repos\MyProject3\Model\obj\Debug\Model.dll
+C:\Users\יהודית\source\repos\MyProject3\Model\obj\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\obj\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\MyProject3\Model\obj\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\Model\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\Model\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\Model\obj\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3\Model\obj\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\obj\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\משלימות יב\תמר הולצר\MyProject3---\Model\obj\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\Model\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\Model\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\Model\obj\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\19.02\MyProject3---\Model\obj\Debug\Model.pdb
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\bin\Debug\Model.dll
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\bin\Debug\Model.pdb
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\obj\Debug\Model.dll
+C:\Users\יהודית\Downloads\-מהמניק MyProject3---\Model\obj\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.pdb
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.dll
+C:\Users\משתמש זה\Desktop\Programming_Lessons&material\אלעד\משלימות יב\תמר הולצר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.pdb
+D:\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.dll
+D:\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.pdb
+D:\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.dll
+D:\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\bin\Debug\Model.pdb
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.dll
+C:\Users\יהודית\Documents\תמר\ישנים יותר\-מהמניק MyProject3---\server-שרת\Model\obj\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\bin\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\bin\Debug\Model.pdb
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\obj\Debug\Model.dll
+H:\תכנות שנה א תשפג\תלמידות\תמר הולצר\-מהמניק MyProject3---(אורגינל בלי שטויות)\server-שרת\Model\obj\Debug\Model.pdb
